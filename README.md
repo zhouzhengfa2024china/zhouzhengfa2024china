@@ -10,3 +10,5 @@
 zhouzhengfa2024china/zhouzhengfa2024china is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Total have some tips, such as c ,c++ ,JAVA ,Python ,Javascript ,c# ,rust ,go ,swift ,php ,
+one by one.
